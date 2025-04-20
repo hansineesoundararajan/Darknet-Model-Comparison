@@ -1,8 +1,17 @@
-# Darknet-Model-Comparison
-This repository contains a Jupyter Notebook that demonstrates the classification of internet traffic using the Darknet 2020 dataset. The models are trained to distinguish between different types of traffic: Tor, non-Tor, VPN, and non-VPN.
+# ML-Technique-Comparison
+# ⚙️ Machine Learning Model Comparison Projects
 
-The project includes:
-Data preprocessing,
-Feature selection,
-Classification using multiple ML models (Decision Tree, Random Forest, SVM, KNN, Logistic Regression),
-Evaluation metrics and comparison.
+This repository contains two machine learning analysis projects focused on evaluating and comparing different models on distinct datasets.
+
+---
+
+## 📂 Projects
+
+### 🔐 [Darknet Model Comparison](./darknet-models/)
+- **Goal:** Compare ML models (Decision Tree, Random Forest, SVM, etc.) for network traffic classification using the Darknet 2020 dataset.
+- **Highlights:** Identifies which model performs best.
+
+### 🚀 [Boosting Algorithm Comparison](./boosting-comparison/)
+- **Goal:** Evaluate and compare boosting algorithms (e.g., AdaBoost, XGBoost, LightGBM, CatBoost) on a CCiDD dataset.
+- **Highlights:** Explains the boosting performance on the dataset.
+
